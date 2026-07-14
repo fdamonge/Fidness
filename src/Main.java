@@ -1,3 +1,6 @@
+// Aplicación Fidness - Avance 2
+// Autora: María Fernanda Monge Sibaja
+
 import controlador.GestorUsuarios;
 import vista.VentanaLogin;
 
