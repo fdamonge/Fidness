@@ -1,0 +1,19 @@
+# Archivos compilados
+bin/
+*.class
+
+# Archivos de datos serializados
+datos/*.dat
+
+# IDE
+.idea/
+*.iml
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Sistema
+.DS_Store
+Thumbs.db
